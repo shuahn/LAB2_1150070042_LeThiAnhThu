@@ -53,4 +53,5 @@ Trong giao diện Tkinter: chọn "Generate Key → Generate IV → nhập Plain
 
 
 
+
 # LAB2_1150070042_LeThiAnhThu
