@@ -51,12 +51,6 @@ SELF-TEST OK: 4 thông điệp mã hóa/giải mã đúng, sai khóa bị phát 
 
 Trong giao diện Tkinter: chọn "Generate Key → Generate IV → nhập Plaintext → Encrypt → xóa Plaintext → Decrypt". Có thể kiểm thử "Save File" và "Open File"; file lưu IV và bản mã, không lưu khóa.
 
-## Kết quả kiểm thử cần minh chứng
-- Mã hóa và giải mã các thuật toán bằng đúng khóa.
-- Trường hợp khóa sai hoặc dữ liệu không hợp lệ.
-- Đăng ký, đăng nhập và mã hóa AES-GCM; kiểm thử bản mã bị chỉnh sửa.
-- Kết nối SQL Server và truy vấn lịch sử trong `dbo.crypto_history`.
-- AES-CTR và AES-CBC với văn bản tiếng Việt dài; AES-CBC chạy `--self-test`.
-- Menu chính mở được các form tương ứng.
 
 
+# LAB2_1150070042_LeThiAnhThu
